@@ -1,5 +1,5 @@
 # DLL injector
-![Preview of Program.](//raw.githubusercontent.com/sungsoos/DLL-Injector/main/Preview.png)
+![Preview of Program.](Preview.png)
 
 > Windows 11 Styled .dll injector.
 
